@@ -1,3 +1,4 @@
 # flutter_polynomials_as_packing_functions_
 
-A new Flutter project.
+Será un proyecto basado en el artículo "Combinatorial Analysis of Diagonal, Box, and
+Greater-Than Polynomials as Packing Functions" publicado en 2015
